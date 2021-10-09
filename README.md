@@ -1,10 +1,10 @@
 Search tool for GitHub-users
 
+You can find the finished product from here: https://github-api-754c9.web.app/
+
 This is a web app, that can be used to find information about user's GitHub-profile. The information that can be found with the tool include users name, username, number of repositories and the time, when user's GitHub-profile was created. Through the tool, you can also navigate to the user's GitHub-profile, you searched for. 
 
 Accessibility and usability have been taken into account in the application. It is possible to use the app completely via key navigation.
-
-You can find the finished product from here: https://github-api-754c9.web.app/
 
 ### `npm start`
 
