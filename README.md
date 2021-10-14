@@ -1,4 +1,4 @@
-Search tool for GitHub-users
+# Search tool for GitHub-users
 
 You can find the finished product from here: https://github-api-754c9.web.app/
 
